@@ -1,0 +1,8 @@
+gspread==5.11.2
+google-auth==2.23.0
+google-api-python-client==2.99.0
+google-auth-httplib2==0.1.1
+google-auth-oauthlib==1.1.0
+google-api-core==2.11.1
+google-cloud-secret-manager==2.16.3
+lxml==4.9.3
